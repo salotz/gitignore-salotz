@@ -12,4 +12,9 @@ Because the templates support:
 Composition effective use of these will require a application to do
 this for us, which doesn't exist yet.
 
+The best one so far for python is
+[[https://github.com/lagerfeuer/gitignore]]:
 
+#+begin_src bash
+pip install giig
+#+end_src
