@@ -1,0 +1,15 @@
+* gitignore
+
+Using the same structure as the [[https://github.com/toptal/gitignore]]
+repo just adding my own.
+
+Because the templates support:
+
+- stacks
+- patches
+- order
+
+Composition effective use of these will require a application to do
+this for us, which doesn't exist yet.
+
+

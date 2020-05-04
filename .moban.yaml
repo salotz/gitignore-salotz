@@ -1,0 +1,6 @@
+configuration:
+  template_dir:
+    - ../temp-github-gitignore
+    - ../temp-github-gitignore/DataScience
+copy:
+  - templates/DataScience.gitignore: DataScience.gitignore
